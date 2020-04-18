@@ -1,0 +1,13 @@
+NeckOffset = 126.5
+ShoulderOffsetY = 98.00
+ElbowOffsetY = 15.00
+UpperArmLength = 105.00
+LowerArmLength = 55.95
+ShoulderOffsetZ = 100.00
+HandOffsetX = 57.75
+HipOffsetZ = 85.00
+HipOffsetY = 50.00
+ThighLength = 100.00
+TibiaLength = 102.90
+FootHeight = 45.19
+HandOffsetZ = 12.31
