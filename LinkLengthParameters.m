@@ -1,4 +1,4 @@
-NeckOffset = 126.5
+NeckOffsetZ= 126.5
 ShoulderOffsetY = 98.00
 ElbowOffsetY = 15.00
 UpperArmLength = 105.00
